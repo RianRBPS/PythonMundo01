@@ -7,6 +7,4 @@ print(numeros.count(9))
 print(numeros.index(3))
 
 # Quais foram os números pares
-for n in numeros:
-    if numeros % 2 == 0:
-        print(numeros)
+print({n for n in numeros if n % 2 == 0})
