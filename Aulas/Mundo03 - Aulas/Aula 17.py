@@ -13,6 +13,7 @@ len(lista3) # resposta: 5
 
 
 #Comentado
+
 num = [2,5,9,1,7]
 #num1 = num #link entre lista num e num1
 #num1[1]=6
@@ -39,7 +40,6 @@ print(f'Lista com {len(num)} elementos.')
 
 
 #(Bônus)
-
 
 num1 = list()
 num1.append(1),num1.append(4),num1.append(5),num1.append(3)
